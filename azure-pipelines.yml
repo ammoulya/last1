@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: keykeyp
+  name: pool
 
 steps:
 - script: echo Hello, world!
